@@ -1,8 +1,5 @@
 ## Analysta. AI Assistants to analyze your data
 
-### Harness the Power of Generative AI for Your Data
-
----
 
 Welcome to Analysta AI, where cutting-edge generative artificial intelligence meets statistical analysis. Our product empowers individuals from various backgrounds, regardless of their statistical know-how, to unlock the stories hidden within their data. Whether you're dealing with Excel spreadsheets, CSV files, or any other structured datasets, Analysta AI is your go-to solution for accessing insights and answers that were once the preserve of data scientists.
 
